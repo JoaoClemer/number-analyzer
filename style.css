@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+    font: 15pt normal Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+    background-color: white;
+    padding: 70px;
+    margin: auto;
+    width: 700px;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    border-color: blueviolet;
+    margin-bottom: 10px;
+}
+
+select {
+    width: 150px;
+}
+
+
+footer {
+    color: white;
+}
